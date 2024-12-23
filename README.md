@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 📫 How to reach me **harvard.kuldeep@gmail.com**
+- 📫 How to reach me **kuldeep_rathore@outlook.in**
 
 
 
